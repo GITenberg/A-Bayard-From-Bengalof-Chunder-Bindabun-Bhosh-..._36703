@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6137
     wikipedia: http://en.wikipedia.org/wiki/F._Anstey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36703#A-Bayard-From-Bengalof-Chunder-Bindabun-Bhosh-...
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2011-07-11'
 gutenberg_type: Text

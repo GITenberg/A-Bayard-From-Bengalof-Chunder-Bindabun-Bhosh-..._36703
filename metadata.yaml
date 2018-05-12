@@ -1,0 +1,43 @@
+_repo: A-Bayard-From-Bengalof-Chunder-Bindabun-Bhosh-..._36703
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Partridge, Bernard
+    aliases:
+    - Gould, Bernard
+    - Partridge, John Bernard
+    - Partridge, J. Bernard
+    birthdate: 1861
+    deathdate: 1945
+    gutenberg_agent_id: '26310'
+    url: http://www.gutenberg.org/2009/agents/26310
+    wikipedia: http://en.wikipedia.org/wiki/Bernard_Partridge
+covers:
+- cover_type: archival
+  image_path: 36703-h/images/i_covert.jpg
+creator:
+  author:
+    agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2011-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36703'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'East Indians -- England -- Fiction'
+- !lcc 'PR'
+title: "A Bayard From Bengal\r\nBeing some account of the Magnificent and Spanking\
+  \ Career of Chunder Bindabun Bhosh,..."
+url: http://www.gutenberg.org/ebooks/36703
